@@ -1,7 +1,7 @@
  def create_test_data(self):
      """
      Create test data using pure lists Function Purpose: The create_test_data
-     method is designed to generate synthetic test data using pure lists.
+     method is designed to generate synthetic test data using pure lists..
      Wavelength Range Creation:
 
      It generates a list of wavelengths ranging from 200 nm to 800 nm, with a
