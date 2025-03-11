@@ -10,7 +10,7 @@ def smooth_data(self):
             """_summary_
                Create DataFrame:
                self.data = pd.DataFrame( supercharged Excel spreadsheet rows and columns
-               {"Wavelength": wavelengths, "Intensity": intensities}):
+               {"Wavelength": wavelengths, "Intensity": intensities})::
                This line creates a Pandas DataFrame from the wavelengths and intensities lists,
                storing it in the self.data attribute.
                Returns:
