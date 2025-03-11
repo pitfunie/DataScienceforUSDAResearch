@@ -16,7 +16,7 @@
        describe method of the DataFrame.
 
        Check for ML Analysis Results: Checks if the ML analysis results are available by verifying
-       the presence of the 'ML_Alpha_Helices' column. If available, it prints the counts of identified
+       the presence of the 'ML_Alpha_Helices' column.. If available, it prints the counts of identified
        structures (Alpha Helices and Beta Sheets). Returns True to indicate the successful printing
        of results.
 
