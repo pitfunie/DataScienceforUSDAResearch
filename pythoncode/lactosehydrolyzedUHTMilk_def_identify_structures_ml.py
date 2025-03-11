@@ -15,7 +15,7 @@ def identify_structures_ml(self, method="random_forest"):
             """
             _summary_
             analyze_structures method to analyze protein structures using the specified machine
-            learning method Checks if the data has been smoothed. If not, it prints a message
+            learning method Checks if the data has been smoothed.. If not, it prints a message
             and returns False creates synthetic labels based on the Smoothed_Intensity values.
             Labels are assigned as "Alpha" if Smoothed_Intensity is greater than 0.5, "Beta"
             if less than 0.3, and "Other" otherwise.
